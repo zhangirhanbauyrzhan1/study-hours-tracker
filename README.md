@@ -41,7 +41,7 @@ docs/    Eisenhower matrix and system diagram
 ## Planning Documents
 
 - [Eisenhower Matrix](docs/eisenhower-matrix.md)
-- [System Diagram](docs/system-diagram.png)
+- [System Diagram](docs/system-diagram.png) (source: [system-diagram.drawio](docs/system-diagram.drawio))
 
 ![System Diagram](docs/system-diagram.png)
 
