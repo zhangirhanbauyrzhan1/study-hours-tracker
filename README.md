@@ -41,7 +41,9 @@ docs/    Eisenhower matrix and system diagram
 ## Planning Documents
 
 - [Eisenhower Matrix](docs/eisenhower-matrix.md)
-- System Diagram: *coming soon* (`docs/system-diagram.png` + draw.io source)
+- [System Diagram](docs/system-diagram.png)
+
+![System Diagram](docs/system-diagram.png)
 
 ## Usage
 
